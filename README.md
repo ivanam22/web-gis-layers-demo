@@ -1,18 +1,19 @@
 # Web GIS Layers Visualization
 
-A simple Web GIS application built using Leaflet and GeoServer.
+This project demonstrates the development of a simple Web GIS application using Leaflet and GeoServer. It enables visualization of spatial data through WMS services and illustrates the difference between raster and vector data.
 
-##  Project Overview
-The application explains the difference between raster and vector data in GIS and provides interactive visualization of both layer types.
+## Key Features
+- Integration with GeoServer (WMS services)  
+- Visualization of raster and vector layers  
+- Interactive map interface using Leaflet  
+- Client-server communication in Web GIS environment  
+- Educational explanation of raster vs vector data  
 
-##  Features
-- Display raster layer using WMS service  
-- Display vector layer using WMS service  
-- Interactive map visualization with Leaflet  
-- Educational explanation of raster and vector GIS data
+## Technologies
+HTML, JavaScript, Leaflet, GeoServer (WMS), Web GIS  
 
-##  Technologies
-HTML, JavaScript, Leaflet, GeoServer (WMS), Web GIS
+## Key Concepts
+Web GIS, spatial data visualization, client-server architecture, map services  
 
-##  Purpose
-Developed as part of a university course focused on GIS application development.
+## Motivation
+The goal of this project is to understand how spatial data can be served and visualized in web applications using standard GIS services.
