@@ -16,4 +16,4 @@ HTML, JavaScript, Leaflet, GeoServer (WMS), Web GIS
 Web GIS, spatial data visualization, client-server architecture, map services  
 
 ## Motivation
-The goal of this project is to understand how spatial data can be served and visualized in web applications using standard GIS services.
+The goal of this project is to understand how spatial data can be served and visualized in web applications using standard GIS services.  
